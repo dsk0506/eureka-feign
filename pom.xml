@@ -58,6 +58,13 @@
 			<systemPath>/Users/dsk/.m2/repository/com/dsk/eureka-client.interface/1.0.0-SNAPSHOT/eureka-client.interface-1.0.0-SNAPSHOT.jar</systemPath>
 		</dependency>
 
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-zipkin</artifactId>
+		</dependency>
+
+
+
 
 	</dependencies>
 
